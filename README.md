@@ -4,6 +4,7 @@
 </h1>
 
 <p align="center">
+   <a href="#github-pages-rel">GitHiub Pages</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#wrench-built-with">Built With</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#pencil-author">Author</a>
 </p>
